@@ -9,5 +9,5 @@ console.log(numero + numeroString);
 
 // conversao explicita 
 
-const numeroString = "456";
-const numeroString = Nummber("456")
+//const numeroString = "456";
+//const numeroString = Nummber("456")

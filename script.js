@@ -26,7 +26,7 @@ console.log(area)
 const forma = 'quadrado';
 const altura = 5;
 const comprimento = 7;
-const area;
+//const area;
 
 if (forma === 'quadrado') {
     area = altura * comprimento;
